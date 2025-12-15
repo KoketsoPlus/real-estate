@@ -90,7 +90,7 @@ export const TestimonialsData = [
     },
     
     {
-        name : "Doris Ndhlovu",
+        name : "Doris Chabalala",
         title: "Marketing Director, Another Co",
         image: profile_img_2,
         alt: "Profile Picture",
