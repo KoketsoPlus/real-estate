@@ -10,7 +10,7 @@ import project_img_1 from './project_img_1.jpg';
 import project_img_2 from './project_img_2.jpg';    
 import project_img_3 from './project_img_3.jpg';
 import project_img_4 from './project_img_4.jpg';    
-import project_img_5 from './project_img_5.jpeg';
+import project_img_5 from './project_img_5.webp';
 import project_img_6 from './project_img_6.jpg';
 import project_img_7 from './project_img_7.webp';
 import profile_img_1 from './profile_img_1.jpg';
